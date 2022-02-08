@@ -3,6 +3,6 @@
 int main()
 {
 
-	printf("I am in ios team");
+	printf("I am in ios tea");
 	return 0;
 }
